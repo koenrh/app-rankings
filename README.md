@@ -3,7 +3,7 @@ App Rankings
 
 This is project is my entry to the Norvig Web Data Science Award.
 
-Please find the report on the wiki: https://github.com/koenrouwhorst/app-rankings/wiki/Report
+Please find the report on the wiki: https://github.com/koenrouwhorst/app-rankings/wiki/Report  
 The results are available at: http://apps.koenrh.com
 
 Thanks!
